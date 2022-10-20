@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Anna! 👋
+
+### About me 🌱
+- 🏫 I'm a fourth-year Computer Science student @ the University of British Columbia in Vancouver, BC 
+- 💻 I previously interned @ PayByPhone and Copperleaf 
+- 📫 Reach me here: [linkedin](https://www.linkedin.com/in/anna-takeu/), my [website](https://annatakeuchi.dev/), [email](mailto:anna.takeu@gmail.com)
+- 😊 Pronouns: she/her
 
 <!--
 **annatake/annatake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
