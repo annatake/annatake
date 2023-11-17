@@ -1,8 +1,9 @@
 ### Hi, I'm Anna! 👋
 
 ### About me 🌱
-- 🏫 I'm a fourth-year Computer Science student @ the University of British Columbia in Vancouver, BC 
-- 💻 I previously interned @ PayByPhone and Copperleaf 
+- 💻 I'm a Software Developer at PayByPhone, and I've also previously interned @ PayByPhone and Copperleaf Technologies
+- 🏫 I graduated from the University of British Columbia with a BA in Computer Science
+- 📍 I'm currently based in Vancouver, BC 
 - 📫 Reach me here: [linkedin](https://www.linkedin.com/in/anna-takeu/), my [website](https://annatakeuchi.dev/), [email](mailto:anna.takeu@gmail.com)
 - 😊 Pronouns: she/her
 
